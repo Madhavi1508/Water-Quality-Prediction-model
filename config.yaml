@@ -1,0 +1,37 @@
+features:
+  - name: ph
+    min: 0
+    max: 14
+    default: 7.0
+  - name: Hardness
+    min: 0
+    max: 500
+    default: 200.0
+  - name: Solids
+    min: 0
+    max: 60000
+    default: 20000.0
+  - name: Chloramines
+    min: 0
+    max: 20
+    default: 7.0
+  - name: Sulfate
+    min: 0
+    max: 1000
+    default: 300.0
+  - name: Conductivity
+    min: 0
+    max: 2000
+    default: 400.0
+  - name: Organic_carbon
+    min: 0
+    max: 50
+    default: 15.0
+  - name: Trihalomethanes
+    min: 0
+    max: 200
+    default: 80.0
+  - name: Turbidity
+    min: 0
+    max: 10
+    default: 4.0
